@@ -2,7 +2,9 @@
 
 <br>
 
-Native Android-App mit Android, die eine mit Bootstrap erstelle Web-App im WebView-Element darstellt.
+Native Android-App mit Android, die eine mit dem CSS-Framework [Bootstrap](https://getbootstrap.com/) erstelle
+Web-App im [WebView](https://developer.android.com/reference/android/webkit/WebView)-Element von Android darstellt.
+Bei der Web-App handelt es sich um einen einfachen [Pangramm](https://de.wikipedia.org/wiki/Pangramm)-Checker.
 
 <br>
 
